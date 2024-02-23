@@ -1,0 +1,19 @@
+h3{
+    text-align: center;
+    margin: 20px;
+}
+
+#rows{
+    text-align: center;
+    margin: 20px;
+}
+
+#sortingButton{
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+body{
+    text-align: center;
+}
